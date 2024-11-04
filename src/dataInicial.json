@@ -1,0 +1,138 @@
+{
+    "clientes": [
+        {
+            "codigo": 1,
+            "nome": "Ana Souza",
+            "email": "ana.souza@example.com"
+        },
+        {
+            "codigo": 2,
+            "nome": "Carlos Silva",
+            "email": "carlos.silva@example.com"
+        },
+        {
+            "codigo": 3,
+            "nome": "Mariana Oliveira",
+            "email": "mariana.oliveira@example.com"
+        },
+        {
+            "codigo": 4,
+            "nome": "Pedro Santos",
+            "email": "pedro.santos@example.com"
+        },
+        {
+            "codigo": 5,
+            "nome": "Laura Lima",
+            "email": "laura.lima@example.com"
+        },
+        {
+            "codigo": 6,
+            "nome": "Rafael Almeida",
+            "email": "rafael.almeida@example.com"
+        },
+        {
+            "codigo": 7,
+            "nome": "Julia Ferreira",
+            "email": "julia.ferreira@example.com"
+        },
+        {
+            "codigo": 8,
+            "nome": "Lucas Martins",
+            "email": "lucas.martins@example.com"
+        },
+        {
+            "codigo": 9,
+            "nome": "Sofia Costa",
+            "email": "sofia.costa@example.com"
+        },
+        {
+            "codigo": 10,
+            "nome": "Thiago Rocha",
+            "email": "thiago.rocha@example.com"
+        }
+    ],
+    "aplicativos": [
+        {
+            "codigo": 1,
+            "nome": "AppFit",
+            "custoMensal": 20.00
+        },
+        {
+            "codigo": 2,
+            "nome": "LearnNow",
+            "custoMensal": 10.00
+        },
+        {
+            "codigo": 3,
+            "nome": "Foodie",
+            "custoMensal": 10.00
+        },
+        {
+            "codigo": 4,
+            "nome": "TravelMate",
+            "custoMensal": 10.00
+        },
+        {
+            "codigo": 5,
+            "nome": "PhotoMagic",
+            "custoMensal": 20.00
+        },
+        {
+            "codigo": 6,
+            "nome": "BookWorm",
+            "custoMensal": 10.00
+        },
+        {
+            "codigo": 7,
+            "nome": "FinanceGuru",
+            "custoMensal": 20.00
+        },
+        {
+            "codigo": 8,
+            "nome": "GameZone",
+            "custoMensal": 20.00
+        },
+        {
+            "codigo": 9,
+            "nome": "MindRelax",
+            "custoMensal": 20.00
+        },
+        {
+            "codigo": 10,
+            "nome": "HomeChef",
+            "custoMensal": 20.00
+        }
+    ],
+    "assinaturas": [
+        {
+            "codCli": 1,
+            "codApp": 1,
+            "inicioVigencia": "2024-10-01",
+            "fimVigencia": "2024-11-15"
+        },
+        {
+            "codCli": 2,
+            "codApp": 2,
+            "inicioVigencia": "2024-09-01",
+            "fimVigencia": "2024-09-30"
+        },
+        {
+            "codCli": 3,
+            "codApp": 3,
+            "inicioVigencia": "2024-08-01",
+            "fimVigencia": "2024-08-15"
+        },
+        {
+            "codCli": 4,
+            "codApp": 4,
+            "inicioVigencia": "2024-07-01",
+            "fimVigencia": "2024-07-31"
+        },
+        {
+            "codCli": 5,
+            "codApp": 5,
+            "inicioVigencia": "2024-06-01",
+            "fimVigencia": "2024-06-15"
+        }
+    ]
+}
